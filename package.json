@@ -1,0 +1,11 @@
+{
+  "name": "pt3-dwes",
+  "version": "1.0.0",
+  "description": "Practica Tema 3 - Desarrollo Web Entorno Servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Eggle",
+  "license": "ISC"
+}
